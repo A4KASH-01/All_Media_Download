@@ -1,5 +1,5 @@
 {
-  "name": "AKASH_VAU_MEDIA_DOWNLOADER",
+  "name": "AKASH_MEDIA_DOWNLOADER",
   "version": "0.0.1",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
